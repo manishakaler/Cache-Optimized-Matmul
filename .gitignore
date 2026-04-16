@@ -1,0 +1,8 @@
+bin/
+results/*.csv
+*.o
+*.d
+tmp_perf.txt
+__pycache__/
+*.pyc
+.DS_Store
