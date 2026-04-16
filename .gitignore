@@ -1,5 +1,4 @@
 bin/
-results/*.csv
 *.o
 *.d
 tmp_perf.txt
